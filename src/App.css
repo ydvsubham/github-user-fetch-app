@@ -1,0 +1,79 @@
+body{
+ 
+    transition:   ease-in-out 1s;
+  
+}
+.darkbody{
+  background-color: rgb(19,29,47);
+  padding-bottom: 50px;
+  min-height: 100vh;
+}
+.lightbody{
+  background-color: rgb(246,248,255);
+  padding-bottom: 50px;
+}
+.msy-darkbg1{
+  background-color: rgb(19,29,47) !important;
+}
+.msy-lightbg1{
+  background-color: rgb(254,254,254) !important;
+}
+.temp{
+  border: 1px solid red;
+}
+.msy-rounded{
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+.msy-wtid{
+  width: 97%;
+}
+.msy-darkbg2{
+  background-color: rgb(30,42,72) !important;
+  color: #ffffff !important;
+}
+.msy-darkbg3{
+  color: #ffffff !important;
+}
+.msy-lightbg2{
+  background-color: rgb(254,254,254) !important;
+  color: black !important;
+}
+.msy-lightformbg1{
+  background-color: rgb(246,248,255);
+}
+.msy-profile-img{
+  border-radius: 50%;
+}
+.msy-folowerDark{
+  background-color: rgb(19,29,47);
+  border-radius: 10px !important;
+}
+.msy-folowerlight{
+  background-color: rgb(246,248,255);
+  border-radius: 10px !important;
+}
+.fa-location,.fa-brands,.fa-solid,.fa{
+  padding-right: 10px;
+  font-size: 20px;
+}
+.msy-pdding{
+  padding: 10px;
+}
+.msy-seacrh{
+  width: 70%;
+  margin: 0 auto;
+}
+.msy-themebtn{
+  width: 62%;
+  margin: 0 auto;
+}
+.faded{
+  color: rgb(145,148,163);
+}
+.fa-sun,.fa-moon {
+  font-size: 30px !important;
+}
+.fa-moon {
+  background-color: rgb(19,29,47);
+}
