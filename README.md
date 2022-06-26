@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This site is live on [[http://localhost:3000]([https://sensational-elf-ba9fd8.netlify.app/)](https://sensational-elf-ba9fd8.netlify.app/) to view it in your browser.
+This site is live on [([https://sensational-elf-ba9fd8.netlify.app/)](https://sensational-elf-ba9fd8.netlify.app/) to view it in your browser.
 
 
 ## Available Scripts
