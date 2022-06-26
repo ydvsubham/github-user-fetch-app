@@ -6,7 +6,7 @@ const Thembtn = ({ themechange, darktheme }) => {
             <div class={`col-lg-8 d-flex flex-row justify-content-between px-0 msy-themebtn form-check form-switch ms-auto mt-3 ${darktheme ? "msy-darkbg3" : "bg-light"} `}>
                 <div>
                     <h2>
-                        DevFinder
+                        Finder
                     </h2>
                 </div>
                 <div>

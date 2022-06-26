@@ -21,13 +21,14 @@ body{
 .temp{
   border: 1px solid red;
 }
-.msy-rounded{
+/* .msy-rounded{
   margin-left: 10px !important;
   margin-right: 10px !important;
-}
-.msy-wtid{
+} */
+/* .msy-wtid{
   width: 97%;
-}
+} */
+
 .msy-darkbg2{
   background-color: rgb(30,42,72) !important;
   color: #ffffff !important;
@@ -76,4 +77,93 @@ body{
 }
 .fa-moon {
   background-color: rgb(19,29,47);
+}
+ a{
+   text-decoration: none;
+}
+#button-addon1{
+  margin: 0 !important;
+  height: 100% !important;
+   border-radius: 50rem!important;
+}
+.msy-profile-sub-cont{
+  margin: 0 auto;
+}
+.msy-img-cont{
+  margin: 0 auto;
+}
+
+.msy-img-cont img{
+  height: 50% !important;
+}
+.msy-nameDate p{
+  padding-top: 0 !important;
+}
+@media only screen and (max-width: 1000px){
+  .msy-img-cont img{
+    width: 50% !important;
+    height: 100% !important;
+  }
+  .msy-profile-cont{
+    width: 80%;
+    margin: 0 auto;
+  }
+  .msy-themebtn {
+    width: 80%;
+  }
+  .msy-seacrh{
+   width: 80%; 
+  }
+}
+@media only screen and (max-width: 600px) {
+  .msy-themebtn {
+    width: 85%;
+  }
+  .msy-seacrh{
+   width: 100%; 
+  }
+  .msy-profile-cont{
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  .msy-profile-sub-cont{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  .msy-img-cont img{
+    width: 50% !important;
+    height: 100% !important;
+  }
+  .msy-userbio{
+    padding: 20px !important;
+  }
+  .msy-nameDate h2{
+    font-size: 1.2rem;
+  }
+  .msy-nameDate p{
+    font-size: 0.8rem;
+    
+  }
+  .msy-nameDate a{
+    font-size: 0.6rem !important;
+    
+  }
+  .msy-userProfile{
+    font-size: .8rem;
+    padding-top: 0 !important;
+  }
+  .msy-rff h5{
+    font-size: 1.1rem;
+    margin-bottom: 0;
+  }
+  .msy-rff p{
+    margin-bottom: 0;
+  }
+  .msy-userLinks{
+   font-size: small; 
+  }
+  .fa-location, .fa-brands, .fa-solid, .fa{
+    font-size: small;
+  }
 }

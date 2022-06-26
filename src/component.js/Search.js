@@ -18,7 +18,7 @@ const Search = ({setuser,darktheme}) => {
         <div>
             <div className="row  msy-pdding mt-3 d-flex align-middle">
                 <div className="col-lg-8 msy-seacrh mx-auto">
-                    <div className="  msy-bg1">
+                    <div className=" form-group form-group-sm msy-bg1">
 
                         {/* <!-- Custom rounded search bars with input group --> */}
                         <form action="" onSubmit={onSubmit} className={`${darktheme?"bg-dark msy-darkbg1":"bg-light msy-lightformbg1"}`}>
